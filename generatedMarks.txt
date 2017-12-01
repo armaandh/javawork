@@ -1,0 +1,16 @@
+Bullwinkle Moose, A00123456 - Quizzes: 45.0, Assignments: 65.0, Exams: 78.0
+James Smith, A00456345 - Quizzes: 48.0, Assignments: 68.0, Exams: 88.0
+Rob Sanders, A00245864 - Quizzes: 42.0, Assignments: 75.0, Exams: 58.0
+**************************************************
+Bullwinkle Moose, A00123456 - Quizzes: 45.0, Assignments: 65.0, Exams: 78.0
+James Smith, A00456345 - Quizzes: 48.0, Assignments: 68.0, Exams: 88.0
+Rob Sanders, A00245864 - Quizzes: 42.0, Assignments: 75.0, Exams: 58.0
+**************************************************
+Bullwinkle Moose, A00123456 - Quizzes: 45.0, Assignments: 65.0, Exams: 78.0
+Rob Sanders, A00245864 - Quizzes: 42.0, Assignments: 75.0, Exams: 58.0
+James Smith, A00456345 - Quizzes: 48.0, Assignments: 68.0, Exams: 88.0
+**************************************************
+Bullwinkle Moose, A00123456 - Quizzes: 45.0, Assignments: 65.0, Exams: 78.0
+Rob Sanders, A00245864 - Quizzes: 42.0, Assignments: 75.0, Exams: 58.0
+James Smith, A00456345 - Quizzes: 48.0, Assignments: 68.0, Exams: 88.0
+**************************************************
